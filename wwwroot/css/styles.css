@@ -1,0 +1,14 @@
+body {
+    box-sizing: border-box;
+    margin: 0;
+    padding: 0;
+    background: #031540;
+    color: white;
+    display: flex;
+    flex-direction: column;
+    justify-content: space-evenly;
+}
+
+.text-center {
+    min-height: 70vh;
+}

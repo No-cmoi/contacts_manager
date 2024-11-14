@@ -1,0 +1,3 @@
+﻿<Project>
+  <Import Project="../build/Gestionnaire_contacts.props" />
+</Project>
